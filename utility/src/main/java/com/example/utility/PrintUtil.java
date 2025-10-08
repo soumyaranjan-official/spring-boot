@@ -1,4 +1,4 @@
-package com.example.utility.util;
+package com.example.utility;
 
 
 public final class PrintUtil {

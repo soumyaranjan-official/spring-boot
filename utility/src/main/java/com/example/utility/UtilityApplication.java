@@ -2,7 +2,6 @@ package com.example.utility;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import com.example.utility.util.PrintUtil;
 
 @SpringBootApplication
 public class UtilityApplication {
